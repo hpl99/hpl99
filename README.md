@@ -50,8 +50,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hpl99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpl99&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hpl99&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hpl99&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Details
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hpl99&theme=tokyonight" />
 </p>
 
 ---
@@ -59,7 +74,7 @@
 ## 📈 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpl99&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hpl99&theme=tokyonight" />
 </p>
 
 ---
