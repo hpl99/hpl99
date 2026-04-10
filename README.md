@@ -42,7 +42,6 @@
 ## 🚀 Projects
 
 * 🔹 LCS Visualizer
-* 🔹 Spiritual App
 * 🔹 Data Structures Implementation
 
 ---
