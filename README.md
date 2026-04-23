@@ -46,6 +46,40 @@
 
 ---
 
+---
+
+## 🧠 Competitive Programming
+
+<p align="left">
+<a href="https://leetcode.com/u/edcba94/">
+<img src="https://img.shields.io/badge/LeetCode-edcba94-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/happy_score_60">
+<img src="https://img.shields.io/badge/CodeChef-happy_score_60-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/Phl9421">
+<img src="https://img.shields.io/badge/Codeforces-Phl9421-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🔥 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/edcba94?theme=tokyonight&font=Fira%20Code&ext=heatmap" />
+</p>
+
+---
+
+## ⚡ Codeforces Stats
+
+<p align="center">
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Phl9421&theme=tokyonight" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
