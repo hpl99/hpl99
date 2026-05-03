@@ -18,11 +18,11 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science Student
-* 💻 Learning Development & DSA
-* 🧠 Goal: To become a problem solver in every domain
-* 🚀 Building real-world projects
-* 🌱 Always learning new technologies
+- 🎓 B.Tech Computer Science Student  
+- 💻 Learning Development & DSA  
+- 🧠 Goal: To become a problem solver in every domain  
+- 🚀 Building real-world projects  
+- 🌱 Always learning new technologies  
 
 ---
 
@@ -41,16 +41,15 @@
 
 ## 🚀 Projects
 
-* 🔹 LCS Visualizer
-* 🔹 Data Structures Implementation
-
----
+- 🔹 LCS Visualizer  
+- 🔹 Data Structures Implementation  
 
 ---
 
 ## 🧠 Competitive Programming
 
 <p align="left">
+
 <a href="https://leetcode.com/u/edcba94/">
 <img src="https://img.shields.io/badge/LeetCode-edcba94-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
@@ -62,23 +61,10 @@
 <a href="https://codeforces.com/profile/Phl9421">
 <img src="https://img.shields.io/badge/Codeforces-Phl9421-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
+
 </p>
 
 ---
-
-## 🔥 LeetCode Stats
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/edcba94?theme=tokyonight&font=Fira%20Code&ext=heatmap" />
-</p>
-
----
-
-## ⚡ Codeforces Stats
-
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Phl9421&theme=tokyonight" />
-</p>
 
 ## 📊 GitHub Stats
 
@@ -120,7 +106,7 @@
 
 ## 👀 Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hpl99\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=hpl99&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
